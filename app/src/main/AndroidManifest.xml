@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mx.edu.ittepic.tpdm_u4u5_tecmapa_danielgonzalez">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Main_K"></activity>
+        <activity android:name=".Main_S" />
+        <activity android:name=".Main_F" />
+        <activity android:name=".Main_J" />
+        <activity android:name=".Main_H" />
+        <activity android:name=".Main_P" />
+        <activity android:name=".Main_B" />
+        <activity android:name=".Main_DomoDeportivo" />
+        <activity android:name=".Main_BG" />
+        <activity android:name=".Main_Q" />
+        <activity android:name=".Main_G" />
+        <activity android:name=".Main_A" />
+        <activity android:name=".Main_X" />
+        <activity android:name=".Main_N" />
+        <activity android:name=".Main_Arquitectura" />
+        <activity android:name=".Main_Audiovisual" />
+        <activity android:name=".Main_LICBI" />
+        <activity android:name=".Main_Kiosko" />
+        <activity android:name=".Main_Cafeteria" />
+        <activity android:name=".edificioAdministracion" />
+        <activity android:name=".edificioBiblioteca" />
+        <activity android:name=".edificioLIIA" />
+        <activity android:name=".edificioUVP" />
+        <activity android:name=".edificioUD" />
+        <activity android:name=".laboratorioDeComputo" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCwqqTfI0yW7m8q2guyGvrwlwFkGODc4lQ" />
+    </application>
+
+</manifest>

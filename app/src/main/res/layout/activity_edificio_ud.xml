@@ -17,7 +17,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="307dp"
-        android:layout_marginBottom="100dp"
+        android:layout_marginBottom="40dp"
         android:src="@drawable/ud" />
     <TextView
         android:layout_width="wrap_content"
@@ -29,7 +29,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="edificio donde se encuentran los departamentos de industial , sistemas y electrica, incluye un salon de computacion en la parte de arriba y el departamento de desarrollo academico"
+        android:text="Edificio donde se encuentran los departamentos de: \n *Ing. Industial \n *Ing. Sistemas \n *Ing Electrica y Mecatronica \n *Departamento de desarrollo academico \n \n Incluye un laboratorio de computacion en la planta alta."
         android:textColor="#000"
         android:textSize="20dp"
         android:paddingLeft="20dp"

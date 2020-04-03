@@ -29,7 +29,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="edificio donde se desarrolla la maestria de alimentos, asi como un edificio para bioquimicos y quimicos"
+        android:text="Edificio donde se desarrolla la maestria de alimentos, asi como un edificio para bioquimicos y quimicos pueden realizar sus practicas de laboratorio asi como tambien a algunos alumnos se les permite realizar residencias"
         android:textColor="#000"
         android:textSize="20dp"
         android:paddingLeft="20dp"

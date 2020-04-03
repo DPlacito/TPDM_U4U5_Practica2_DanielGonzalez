@@ -30,7 +30,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Lugar en donde se almacenan todos los libros del lugar, y los estudiantes pueden relajarse , estudiar o avanzar en sus proyectos"
+        android:text="Edifiio en donde se almacenan todos los libros del lugar para todas las carreras, y los estudiantes pueden relajarse , estudiar o avanzar en sus proyectos"
         android:textColor="#000"
         android:textSize="20dp"
         android:paddingLeft="20dp"

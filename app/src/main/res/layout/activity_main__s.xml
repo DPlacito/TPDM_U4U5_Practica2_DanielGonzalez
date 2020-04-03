@@ -30,7 +30,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="En este edificio se encuentra la sociedad de alumnos asi como un taller de mantenimiento que da soporte a las areas de el tecnologico"
+        android:text="En este edificio se encuentra la sociedad de alumnos asi como un taller de mantenimiento que da soporte a las areas de el tecnologico \n \n En frente de la cafeteria tambien se encuentran las coordinaciones de todas las carreras"
         android:textColor="#000"
         android:textSize="20dp"
         android:paddingLeft="20dp"

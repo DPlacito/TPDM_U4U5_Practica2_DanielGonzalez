@@ -18,7 +18,7 @@
         android:layout_width="463dp"
         android:layout_height="236dp"
         android:layout_gravity="center"
-        android:layout_marginBottom="100dp"
+        android:layout_marginBottom="30dp"
         android:src="@drawable/edificioadmin" />
     <TextView
         android:layout_width="wrap_content"
@@ -30,7 +30,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Lugar en donde se encuentran servicios escolares, financieros y las coordinaciones de todas las carreras que ofrece el tecnoologico asi comoo el centro principal de computo"
+        android:text="Edificio donde puedes realizar los siguientes tramites: \n *Servicios Escolares (planta baja) \n *Servicios Financieros (planta alta) \n *Servicios Extraescolares (planta baja) \n \n Tambien se encuentran los departamentos: \n *Direccion (planta alta) \n *Programacion y Planeacion (planta alta) \n *Centro De Computo (planta baja)"
         android:textColor="#000"
         android:textSize="20dp"
         android:paddingLeft="20dp"
